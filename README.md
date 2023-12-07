@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Nexus.py" src="https://cdn.discordapp.com/attachments/1180693217373593731/1182468885174308924/cortez_coding.png?ex=6584cef7&is=657259f7&hm=58405d56781c639815d07f8eaa16593acdb958b513c31cafde68c3b84dbe2f8e&" width="750px">
+  <img alt="Nexus.py" src="https://cdn.discordapp.com/attachments/1180693217373593731/1182468885174308924/cortez_coding.png?ex=6584cef7&is=657259f7&hm=58405d56781c639815d07f8eaa16593acdb958b513c31cafde68c3b84dbe2f8e&" width="550px">
 </p>
 
 Do you need more help? [Cortez Coding Discord](https://discord.gg/BEqdgaY8Q5)
