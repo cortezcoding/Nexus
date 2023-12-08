@@ -25,7 +25,7 @@ I recommend having Visual Studio Code with the Python extension installed to hel
 (If that doesn't work, do **python -m pip install -r requirements.txt**)<br>
 `NOTE: Use pip install with Administrator/sudo`
 
-1. Start the bot by having the cmd/terminal inside the bot folder and type **python bot.py**
+1. Start the bot by having the cmd/terminal inside the bot folder and type **python main.py**
 
 2. You're done, enjoy your bot! 
 
