@@ -6,7 +6,7 @@ Do you need more help? Join [Cortez Coding Discord](https://discord.gg/BEqdgaY8Q
 - Discord bot with Message Intent enabled
 
 ## Useful to always have
-Keep [this](https://docs.nextcord.dev/en/stable/) saved somewhere, as this is the docs to discord.py@rewrite.
+Keep [this](https://docs.nextcord.dev/en/stable/) saved somewhere, as this is the docs to nextcord.py.
 All you need to know about the library is defined inside here, even code that I don't use in this example is here.
 
 This code is also made to be as typing friendly as possible with comments and everything.
